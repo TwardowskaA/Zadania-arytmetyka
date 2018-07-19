@@ -14,8 +14,8 @@ public class Test3 {
 
 
         }
-        System.out.println("jest palindromem");
 
+        System.out.println("jest palindromem");
     }
 
 
